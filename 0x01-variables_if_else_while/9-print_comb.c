@@ -2,10 +2,9 @@
 /**
 	* main-program entry point
 	*
-	*Return:0 success, non zero error
-	*/
+	*Return:0 success, non zero error.
+	**/
        
-
 int main(void)
 {
 	int single_digit;
