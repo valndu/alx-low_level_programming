@@ -1,9 +1,9 @@
 #include <stdio.h>
 /**
-	* main-program entry point
-	*
-	*Return:0 success, non zero error.
-	**/
+ * main:Entry Point
+ *
+ * Return 0: Always (Success)
+ * */
        
 int main(void)
 {
