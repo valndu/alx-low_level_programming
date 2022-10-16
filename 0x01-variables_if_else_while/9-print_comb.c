@@ -1,10 +1,9 @@
 #include <stdio.h>
 /**
- * main:Entry Point
+ * main: Entry Point
  *
- * Return 0: Always (Success)
- * */
-       
+ * Return 0: Always (Success) 
+ */
 int main(void)
 {
 	int single_digit;
