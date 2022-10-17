@@ -9,7 +9,7 @@ int main(void)
 {
 	int  s_digit;
 
-	s_digit ='0';
+	s_digit = '0';
 	while (s_digit <= '9')
 	{
 		putchar(s_digit);
