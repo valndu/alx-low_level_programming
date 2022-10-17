@@ -1,26 +1,19 @@
 #include <stdlib.h>
 #include <stdio.h>
-
 /**
- * main : Entry point
+ * main - Entry point
  *
- * Reture 0: (Always Success)
- *
- **/
-
+ * Reture: Always 0 Success
+ */
 int main (void)
 {
 	char alph;
-	       alph = 'a';
-		while (alph <= 'z')
-		{
-			putchar(alph);
-			
-			alph ++;
-	
-		}
-
-		putchar('\n');
-
-		return(0);
+	alph = 'a';
+	while (alph <= 'z')
+	{
+		putchar(alph);
+		alph++;
+	}
+	putchar('\n');
+	return(0);
 }
