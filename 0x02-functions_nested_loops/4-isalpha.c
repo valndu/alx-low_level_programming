@@ -3,7 +3,7 @@
   *_isalpha - to check alphabet character lowercase or uppercase
   *
   *@c: intiger that checks for lowercase or uppercase
-  *Return : 1 if c is a letter low/uppercase, 0 if not
+  *Return: 1-if lowercase/uppercase, 0-if not
   */
 int _isalpha(int c)
 {
